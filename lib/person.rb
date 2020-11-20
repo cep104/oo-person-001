@@ -1,6 +1,6 @@
 # your code goes here
 require 'pry'
-
+#had to manually add pry with bundle init
 class Person 
     attr_reader :name
     attr_accessor :bank_account, :happiness, :hygiene
